@@ -10,3 +10,16 @@ This repository contains my Excel practice work focused on data analysis and rep
 - Data organization
 
 This practice is part of my daily learning to strengthen my skills in Excel for Data Analyst roles.
+
+## Excel Practice - 2 (Data Cleaning)
+
+This practice focuses on data cleaning techniques using Excel.
+
+### Topics Covered
+- TRIM (removing extra spaces)
+- SUBSTITUTE (replacing values)
+- PROPER (formatting text)
+- Splitting data into columns
+- Removing duplicates
+
+This practice helped in understanding how raw data is cleaned before analysis.
